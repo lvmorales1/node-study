@@ -1,0 +1,17 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "Projeto para estudos de Node.js",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvmorales1/node-study.git"
+  },
+  "author": "Lucas Morales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvmorales1/node-study/issues"
+  },
+  "homepage": "https://github.com/lvmorales1/node-study#readme"
+}
